@@ -1,0 +1,13 @@
+{
+  "name": "wikipedia-npr-station-scraper",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Ryan Felix <therjfelix@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "jsdom": "^11.2.0"
+  }
+}
